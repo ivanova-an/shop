@@ -14,7 +14,7 @@
                         toast: true,
                         position: "top-end",
                         showConfirmButton: false,
-                        titleText: 'Товар успешно добавлен!',
+                        titleText: 'Операция выполняется',
                         timer: 3000,
                         timerProgressBar: true,
                         didOpen: (toast) => {
